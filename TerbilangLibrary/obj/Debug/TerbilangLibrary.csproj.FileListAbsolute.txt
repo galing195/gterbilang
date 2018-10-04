@@ -1,0 +1,6 @@
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojAssemblyReference.cache
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\obj\Debug\TerbilangLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
